@@ -1,0 +1,12 @@
+# Ignore data, ouptut, builds, etc.
+data/**
+output/**
+
+# Ignore systemfiles
+.DS_STORE
+.ipynb_checkpoints
+*.pyc
+*.pyd
+
+# Except README's
+!README.md
