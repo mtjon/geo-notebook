@@ -1,5 +1,5 @@
 # Distributed under the terms of the Modified BSD License.
-FROM jupyter/datascience-notebook:2c80cf3537ca
+FROM jupyter/datascience-notebook:92fe05d1e7e5
 
 LABEL maintainer="Martin Tjon <martintjon@gmail.com>"
 
